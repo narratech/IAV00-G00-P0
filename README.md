@@ -17,6 +17,7 @@ El propósito es servir como ejemplo a los alumnos para las demás prácticas de
 
 ## Instalación y uso
 Todo el contenido del proyecto está disponible aquí en el repositorio, pues **Unity 2022.3.55f1** o posterior debería ser capaz de bajar todos los paquetes necesarios.
+De cara al curso 2025-2026 necesitaremos **Unity 6 (6000.0.53f1 LTS)**
 
 Al no estar publicada todavía ninguna versión ejecutable del prototipo, ni enlazado ningún video con las pruebas realizadas, es necesario abrir el proyecto en Unity y usarlo desde allí.
 
