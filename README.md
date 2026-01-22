@@ -272,7 +272,7 @@ Detallar la serie más corta y rápida posible de pruebas que pueden realizarse 
 * Observa las medidas del éxito (pasos, tiempo...) al terminar.
 
 En general, elaborar un plan de pruebas dividido por características (C1, C2 y C3 serían las 3 pruebas que se han realizado de la característica C)
-- [Vídeo con la batería de pruebas](https://youtu.be/xxxxx)
+- [Vídeo con la batería de pruebas](https://www.youtube.com/watch?v=wdlJquAlGWI)
 
 ## Conclusiones
 Queda toda la posproducción por hacer: el pulido y la distribución del ejecutable del juego, así como la publicación del video-documental con las pruebas.
